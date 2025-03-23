@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/AutoML-Pipeline/ML-Pipeline.git
+git add .
+git commit -m "Initial Commit"
+git push
+git branchgit
